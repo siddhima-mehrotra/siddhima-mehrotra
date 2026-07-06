@@ -19,22 +19,19 @@ Senior QA Automation Engineer | Playwright · Python · GitHub Actions | Open to
 🛠️ Tech Stack
 
 Test Automation
-
-Show Image
-Show Image
-Show Image
-Show Image
+Playwright Python Pytest Postman REST API Page Object Model
 
 CI/CD & Version Control
+GitHub Actions Git GitHub Workflow YAML
 
-Show Image
-Show Image
-Show Image
+Framework Skills
+Parallel Execution Data-Driven Testing HTML Reporting Logging Retry Mechanism Screenshot on Failure
 
-Tools & Platforms
+Testing Types
+Functional Regression Integration E2E API Smoke Sanity UAT Accessibility
 
-Show Image
-Show Image
+Tools
+Jira VS Code GitHub Copilot TestRail Zephyr
 
 
 🏆 Key Achievements
@@ -53,10 +50,10 @@ Enterprise-grade UI & API test automation framework built from scratch
 
 
 ✅ Page Object Model (POM) architecture
-✅ 13+ REST API tests (CRUD + schema validation)
+✅ 13+ REST API tests — CRUD + schema validation
 ✅ Parallel execution with pytest-xdist
 ✅ Auto screenshot on failure
-✅ GitHub Actions CI/CD pipeline
+✅ GitHub Actions CI/CD pipeline — fully hands-off
 ✅ HTML reporting + structured logging
 ✅ Multi-environment config via .env
 
@@ -96,8 +93,11 @@ Wipro Technologies
 
 📫 Let's Connect
 
-Show Image
-Show Image
+
+💼 LinkedIn
+📧 siddhimamehrotra12@gmail.com
+🐙 GitHub
+
 
 
 ⭐ Open to remote QA Automation Engineer / SDET / QA Lead roles worldwide
